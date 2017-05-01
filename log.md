@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Day 0: May 1, 2017
-##### (delete me or comment me out)
 
-**Today's Progress**: Started 100-days-of-code and deliberate practice
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started 100-days-of-code and deliberate practice, Worked on JavaScript in class.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Learned that JavaScript is not that different from C++ mainly with some of the syntax and the operators.
+
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
