@@ -18,6 +18,11 @@
 
 **Link(s) to work**
 
+### Day 2: May 2, 2017
+
+**Today's Progress**: I've gone through all of the exercises for Responsive Design with Bootstrap
+
+**Thought** I have learned that there are alot shortcuts that you can use with bootstrap that allows you to have functionality as well as speed. I didn't really have any issues with following along with the lessons. I found it entertaining to see what I was coding right along side the code so I think that having that helped me understand what I was learning.
 
 
 ### Day 0: February 30, 2016 (Example 2)
