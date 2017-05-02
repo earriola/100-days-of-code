@@ -14,7 +14,7 @@
 
 **Today's Progress**: I've gone through some of the exercises for HTML/CSS
 
-**Thoughts** I have learned about the different ways to change the background color, font color, font family, the borders of an image, how to insert an image, how to resize an image, how to change padding and margins as well, etc.
+**Thoughts** I have learned about the different ways to change the background color, font color, font family, the borders of an image, how to insert an image, how to resize an image, how to change padding and margins as well, etc. I didn't really have any issues with following along with how the items and syntax was supposed to be typed in and actually putting that knowledge to use.
 
 **Link(s) to work**
 
