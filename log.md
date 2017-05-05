@@ -31,6 +31,12 @@
 **Thoughts** I have learned that JavaScript has alot of similarities with C++ mainly in syntax. There are a few things that are different with the coding itself but it isn't too different to where I wouldn't understand how to code out the scenarios that are given. I found that some of the directions that it gave for you to code was kind of confusing but with some help and reviewing of past lessons I quickly remembered exactly how to solve the issue.
 
 
+### Day 4: May 4, 2017
+**Today's Progress**: I've almost cleated the Basice JavaScript exercises
+
+**Thoughts** I have learned that the thing that I do not like about some of these exercises is that in order for you to complete the exercises everything has to be exactly how it is required. I got stuck on the exercise "Manipulating Complex Objects" for almost 20 minutes due to not noticing a missing comma after the first element of the array for myMusic.
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
