@@ -32,9 +32,15 @@
 
 
 ### Day 4: May 4, 2017
-**Today's Progress**: I've almost cleated the Basice JavaScript exercises
+**Today's Progress**: I've almost completed the Basic JavaScript exercises
 
 **Thoughts** I have learned that the thing that I do not like about some of these exercises is that in order for you to complete the exercises everything has to be exactly how it is required. I got stuck on the exercise "Manipulating Complex Objects" for almost 20 minutes due to not noticing a missing comma after the first element of the array for myMusic.
+
+
+### Day 5: May 5, 2017
+**Today's Progress**: I've finished the Basic JavaScript exercises and I have also completed the Object Oriented and Functional Programming exercise
+
+**Thoughts** I have learned that there are many functions that work for arrays and strings that I have never heard of or used until I have gone through some of the exercises. I had issues today with remembering some of the syntax which caused some frustration. Although even with the frustration I am still enjoying the exercises and how simple it is to learn the concepts being taught.
 
 
 ### Day 0: February 30, 2016 (Example 2)
