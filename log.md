@@ -49,6 +49,12 @@
 **Thoughts** I didn't really get too far on Basic Algorithm Scripting because of getting stuck on trying to remember how to reverse a string. I ended up having to look up for resources on how to do it, I also got stuck on factoralizing a number and had to look for help to solve that as well.
 
 
+### Day 7: May 7, 2017
+**Today's Progress**: I've continued with the Basic Algorithm Scripting
+
+**Thoughts** I still haven't gotten too far on Basic Algorithm Scripting because of getting stuck on Checking for Palindromes and syntax errors with my code for Finding the longest word of a string. There are still many things to learn and try to remember how and when to use them. I also had to have some friends give some help with remembering some of the minor syntax errors that I kept missing.
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
