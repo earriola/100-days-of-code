@@ -43,6 +43,12 @@
 **Thoughts** I have learned that there are many functions that work for arrays and strings that I have never heard of or used until I have gone through some of the exercises. I had issues today with remembering some of the syntax which caused some frustration. Although even with the frustration I am still enjoying the exercises and how simple it is to learn the concepts being taught.
 
 
+### Day 6: May 6, 2017
+**Today's Progress**: I've continued with the Basic Algorithm Scripting
+
+**Thoughts** I didn't really get too far on Basic Algorithm Scripting because of getting stuck on trying to remember how to reverse a string. I ended up having to look up for resources on how to do it, I also got stuck on factoralizing a number and had to look for help to solve that as well.
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
